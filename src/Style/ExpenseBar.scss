@@ -1,0 +1,16 @@
+.bar-container {
+    border-radius: 25px;
+
+}
+.bar-name{
+    font-size: 17px;
+    @media(max-width: 992px){
+        font-size: 15px;
+    }
+    @media(max-width: 768px){
+        font-size: 13px;
+    }
+    @media(max-width: 576px){
+        font-size: 10px;
+    }
+}

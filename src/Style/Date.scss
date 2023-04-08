@@ -1,0 +1,15 @@
+.date {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 30%;
+    height: 100%;
+    border: 1px solid white;
+    border-radius: 8px;
+    background-color: #191919;
+    .day{
+        font-weight: bold;
+        font-size: 20px;
+    }
+}

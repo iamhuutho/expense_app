@@ -1,0 +1,11 @@
+.filter {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 4px;
+
+    .filter_name {
+        font-weight: bold;
+        color: white;
+    }
+}

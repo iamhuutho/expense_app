@@ -1,0 +1,11 @@
+.ammount {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    background-color: #862796;
+    border: 1px solid white;
+    border-radius: 8px;
+    padding: 4px;
+    text-align: center;
+}

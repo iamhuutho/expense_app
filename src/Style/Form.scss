@@ -1,0 +1,17 @@
+.form {
+    width: 60%;
+    background-color: #897bda;
+    margin: 16px;
+    padding: 16px;
+    border-radius: 8px;
+
+    & button {
+        color: white;
+        font-weight: bold;
+        background-color: #862796;
+        border: none;
+        padding: 8px;
+        border-radius: 8px;
+        box-shadow: 0px 3px 2px #776abd;
+    }
+}
